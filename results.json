@@ -1,0 +1,13 @@
+{
+    "correctness": {
+        "invertibility_max_abs_error": 7.152557373046875e-07,
+        "logdet_finite_diff_abs_error": 3.679841756820679e-05
+    },
+    "training": {
+        "tinyset_final_nll": -0.38261914253234863,
+        "final_train_nll": 1.0975159406661987,
+        "final_val_nll": 1.128445029258728,
+        "final_test_nll": 1.363122820854187
+    },
+    "writeup": ""
+}

@@ -1,0 +1,8 @@
+# envs
+.env
+
+# venvs
+M2CWvenv/
+
+# notes
+*.md

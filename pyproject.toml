@@ -1,0 +1,13 @@
+[project]
+name = "m2cw"
+description = "M2 Coursework"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel",
+    "matplotlib",
+    "numpy",
+    "optuna",
+    "pandas",
+    "torch",
+    "scikit-learn"
+]
