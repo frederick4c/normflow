@@ -6,3 +6,4 @@ M2CWvenv/
 
 # notes
 *.md
+!README.md
